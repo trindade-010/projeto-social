@@ -31,7 +31,7 @@ main {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 305px;
-    background:url('../pacote-d013/imagens/frame-iphone.png') no-repeat;
+    background:url('../pacote-d013/imagens/frame-iphone.png') no-repeat top left;
    
   
 }
